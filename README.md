@@ -1,4 +1,3 @@
-
 # <span style="color:green;">Inventory_manager  </span>
 This program manages shoes inventory.  
 User can update the inventory by capturing  
