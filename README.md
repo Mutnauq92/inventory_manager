@@ -18,6 +18,7 @@ a specific shoe using shoe code.
         from tabulate import tabulate
         ```
 # Program usage  
+User can perform any of options listed below:  
 
 1. Capture a new shoe  
 1. View list of all shoes  
