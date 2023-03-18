@@ -18,12 +18,11 @@ a specific shoe using shoe code.
         from tabulate import tabulate
         ```
 # Program usage  
-
-1. Capture a new shoe  
-    <img src="cap.gif" alt="capture-shoe" height="200">
+<span style="color: green">
+1. Capture a new shoe<p>  
 1. View list of all shoes  
 1. Update shoe quantities  
 1. Re-stock the shoe with least quantity  
 1. Search for shoe using shoe code  
 1. Check the shoe on sale (Shoe with greatest quantity)
-
+</span>
