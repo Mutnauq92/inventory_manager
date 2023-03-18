@@ -7,8 +7,8 @@ with least quantity. User can also search for
 a specific shoe using shoe code.
 
 # Program requirements
-- [ ] (Python 3 installed)  
-- [ ] (tabulate module installed)  
+- [x] (Python 3 installed)  
+- [x] (tabulate module installed)  
     ```
     python -m pip install tabulate
     ```
