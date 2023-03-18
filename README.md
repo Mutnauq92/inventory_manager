@@ -20,7 +20,7 @@ a specific shoe using shoe code.
 # Program usage  
 
 1. Capture a new shoe  
-    ![display](cap.gif)
+    <img src="cap.gif" alt="capture-shoe" height="200">
 1. View list of all shoes  
 1. Update shoe quantities  
 1. Re-stock the shoe with least quantity  
