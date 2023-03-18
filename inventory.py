@@ -281,7 +281,6 @@ def main_menu():
             Choose an operation from the menu below:
             cap - capture a new product
             va  - view all products
-            uq - update shoe quantity
             re  - re-stock product
             ss  - search for a product
             vals - value per item
@@ -289,10 +288,13 @@ def main_menu():
             e - exit the program
 
         """).lower()
-
+    
     return user_choice
 
+# This print will only run when program is running for the first time
+print("\nwelcome to Inventory Manager\n")
 
 while True:
-
+    
     start_program(main_menu())
+    
