@@ -19,11 +19,10 @@ a specific shoe using shoe code.
         ```
 # Program usage  
 
-    1. Capture a new shoe
-        ![display](cap.gif)
-    1. View list of all shoes  
-    1. Update shoe quantities  
-    1. Re-stock the shoe with least quantity  
-    1. Search for shoe using shoe code  
-    1. Check the shoe on sale (Shoe with greatest quantity)
+1. Capture a new shoe
+1. View list of all shoes  
+1. Update shoe quantities  
+1. Re-stock the shoe with least quantity  
+1. Search for shoe using shoe code  
+1. Check the shoe on sale (Shoe with greatest quantity)
 
